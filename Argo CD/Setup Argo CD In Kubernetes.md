@@ -1,8 +1,6 @@
 Requirements
-Installed minikube.
-Installed kubectl command-line tool.
-
-Doc: https://docs.google.com/document/d/1V3WgneHBUC0A0QeKExk_LORZ262c8KPPnTBu5ebkGw4/edit#heading=h.ncfm54uyv4xo
+ - Installed minikube.
+ - Installed kubectl command-line tool.
 
 1. Install Argo CD
 
